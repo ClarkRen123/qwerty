@@ -1,0 +1,4777 @@
+[ {
+  "symbol" : "AAPL",
+  "date" : "2021-12-31",
+  "marketCap" : 2913284448000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-29",
+  "marketCap" : 2942980032000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-28",
+  "marketCap" : 2941503456000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-27",
+  "marketCap" : 2958566112000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-23",
+  "marketCap" : 2892120192000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-22",
+  "marketCap" : 2881620096000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-20",
+  "marketCap" : 2784986400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-17",
+  "marketCap" : 2807791296000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-16",
+  "marketCap" : 2826166464000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-15",
+  "marketCap" : 2941667520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-14",
+  "marketCap" : 2860127712000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-13",
+  "marketCap" : 2883260736000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-10",
+  "marketCap" : 2944128480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-09",
+  "marketCap" : 2863901184000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-08",
+  "marketCap" : 2872432512000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-07",
+  "marketCap" : 2808447552000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-06",
+  "marketCap" : 2712306048000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-03",
+  "marketCap" : 2655211776000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-12-01",
+  "marketCap" : 2703282528000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-30",
+  "marketCap" : 2711977920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-29",
+  "marketCap" : 2628961536000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-26",
+  "marketCap" : 2572687584000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-24",
+  "marketCap" : 2656852416000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-23",
+  "marketCap" : 2648157024000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-22",
+  "marketCap" : 2641758528000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-19",
+  "marketCap" : 2634047520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-18",
+  "marketCap" : 2590078368000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-17",
+  "marketCap" : 2518218336000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-16",
+  "marketCap" : 2477366400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-15",
+  "marketCap" : 2460960000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-12",
+  "marketCap" : 2460795936000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-11",
+  "marketCap" : 2426014368000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-10",
+  "marketCap" : 2426834688000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-09",
+  "marketCap" : 2474249184000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-08",
+  "marketCap" : 2468178816000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-05",
+  "marketCap" : 2481960175593.6
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-04",
+  "marketCap" : 2476710144000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-03",
+  "marketCap" : 2528004465827.8403
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-02",
+  "marketCap" : 2461288128000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-11-01",
+  "marketCap" : 2443897344000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-29",
+  "marketCap" : 2476223892889.6
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-28",
+  "marketCap" : 2522012545648.6396
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-27",
+  "marketCap" : 2460520203315.1997
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-26",
+  "marketCap" : 2468289397104.6396
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-25",
+  "marketCap" : 2457048861409.28
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-22",
+  "marketCap" : 2457875371386.88
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-21",
+  "marketCap" : 2470934229032.96
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-20",
+  "marketCap" : 2467297585131.52
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-19",
+  "marketCap" : 2459032485355.52
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-18",
+  "marketCap" : 2422500744345.6
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-15",
+  "marketCap" : 2394234103111.68
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-14",
+  "marketCap" : 2376381487595.52
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-13",
+  "marketCap" : 2329270418872.32
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-12",
+  "marketCap" : 2339188538603.52
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-11",
+  "marketCap" : 2360677798021.12
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-08",
+  "marketCap" : 2362165515980.8003
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-07",
+  "marketCap" : 2368612293806.08
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-06",
+  "marketCap" : 2347288336384
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-05",
+  "marketCap" : 2332576458782.72
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-04",
+  "marketCap" : 2300011965665.28
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-10-01",
+  "marketCap" : 2358032966092.8003
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-30",
+  "marketCap" : 2339023236608
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-29",
+  "marketCap" : 2361008402012.16
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-28",
+  "marketCap" : 2345800618424.32
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-27",
+  "marketCap" : 2402995108874.24
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-24",
+  "marketCap" : 2428616918179.84
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-23",
+  "marketCap" : 2427129200220.16
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-22",
+  "marketCap" : 2410929604659.1997
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-21",
+  "marketCap" : 2370926521743.3604
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-20",
+  "marketCap" : 2362826723962.88
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-17",
+  "marketCap" : 2414400946565.12
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-16",
+  "marketCap" : 2459528391342.08
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-15",
+  "marketCap" : 2500981967050
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-14",
+  "marketCap" : 2485710588200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-13",
+  "marketCap" : 2509708469250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-10",
+  "marketCap" : 2499975062950
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-09",
+  "marketCap" : 2585561911450
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-08",
+  "marketCap" : 2603014915850
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-07",
+  "marketCap" : 2629530057150
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-03",
+  "marketCap" : 2589421710500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-02",
+  "marketCap" : 2578513582750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-09-01",
+  "marketCap" : 2559382404850
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-31",
+  "marketCap" : 2547970825050
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-30",
+  "marketCap" : 2569619263200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-27",
+  "marketCap" : 2493765821000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-26",
+  "marketCap" : 2475977181900
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-25",
+  "marketCap" : 2489738204600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-24",
+  "marketCap" : 2510883190700
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-23",
+  "marketCap" : 2512393546850
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-20",
+  "marketCap" : 2486885309650
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-19",
+  "marketCap" : 2461880524500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-18",
+  "marketCap" : 2456174734600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-17",
+  "marketCap" : 2520448779650
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-16",
+  "marketCap" : 2536055793200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-13",
+  "marketCap" : 2502156688500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-12",
+  "marketCap" : 2498632524150
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-11",
+  "marketCap" : 2447783867100
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-10",
+  "marketCap" : 2443420616000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-09",
+  "marketCap" : 2451643666150
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-06",
+  "marketCap" : 2452482736118.2646
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-05",
+  "marketCap" : 2467921949100
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-04",
+  "marketCap" : 2466075958250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-03",
+  "marketCap" : 2472956469600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-08-02",
+  "marketCap" : 2464398516880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-30",
+  "marketCap" : 2470156457340
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-29",
+  "marketCap" : 2466430731160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-28",
+  "marketCap" : 2455253552620
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-27",
+  "marketCap" : 2484692372890
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-26",
+  "marketCap" : 2522275101430
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-23",
+  "marketCap" : 2514995563920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-22",
+  "marketCap" : 2485200247600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-21",
+  "marketCap" : 2461499427800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-20",
+  "marketCap" : 2474196295550
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-19",
+  "marketCap" : 2411558414650
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-16",
+  "marketCap" : 2478259293230
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-15",
+  "marketCap" : 2513641231360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-14",
+  "marketCap" : 2524983766550
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-13",
+  "marketCap" : 2465562425480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-12",
+  "marketCap" : 2446263186500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-09",
+  "marketCap" : 2456589972270
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-08",
+  "marketCap" : 2424932448680
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-07",
+  "marketCap" : 2447448227490
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-06",
+  "marketCap" : 2404278877140
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-02",
+  "marketCap" : 2369404813720
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-07-01",
+  "marketCap" : 2323865381390
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-30",
+  "marketCap" : 2318617342720
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-29",
+  "marketCap" : 2307951973810
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-28",
+  "marketCap" : 2281711780460
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-25",
+  "marketCap" : 2253440088270
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-24",
+  "marketCap" : 2258518835370
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-23",
+  "marketCap" : 2263428290900
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-22",
+  "marketCap" : 2268168454860
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-21",
+  "marketCap" : 2239727471100
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-18",
+  "marketCap" : 2208577822220
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-17",
+  "marketCap" : 2231093601030
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-16",
+  "marketCap" : 2203329783550
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-15",
+  "marketCap" : 2194695913479.9998
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-14",
+  "marketCap" : 2208916405360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-11",
+  "marketCap" : 2155928143950
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-10",
+  "marketCap" : 2134935989270
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-09",
+  "marketCap" : 2152203729410
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-08",
+  "marketCap" : 2145601358180
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-07",
+  "marketCap" : 2131380866300
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-04",
+  "marketCap" : 2131211574730
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-03",
+  "marketCap" : 2091428055780
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-02",
+  "marketCap" : 2117160374420
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-06-01",
+  "marketCap" : 2103955631960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-28",
+  "marketCap" : 2109542253770
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-27",
+  "marketCap" : 2120884788960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-26",
+  "marketCap" : 2147463565450
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-25",
+  "marketCap" : 2148310023300
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-24",
+  "marketCap" : 2151695854700
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-21",
+  "marketCap" : 2123424162510
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-20",
+  "marketCap" : 2155250977670
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-19",
+  "marketCap" : 2110896586330
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-18",
+  "marketCap" : 2113605251450
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-17",
+  "marketCap" : 2137644654390
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-14",
+  "marketCap" : 2157621059650
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-13",
+  "marketCap" : 2115636750290
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-12",
+  "marketCap" : 2078392604890
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-11",
+  "marketCap" : 2131550157870
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-10",
+  "marketCap" : 2147463565450
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-07",
+  "marketCap" : 2204345532970
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-06",
+  "marketCap" : 2196388829180.0002
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-05",
+  "marketCap" : 2168625011700
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-04",
+  "marketCap" : 2164392722450
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-05-03",
+  "marketCap" : 2243790468780
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-30",
+  "marketCap" : 2225506979220
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-29",
+  "marketCap" : 2259703876360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-28",
+  "marketCap" : 2286046443040
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-27",
+  "marketCap" : 2299908530320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-26",
+  "marketCap" : 2305556047360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-23",
+  "marketCap" : 2298710572160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-22",
+  "marketCap" : 2257979994720
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-21",
+  "marketCap" : 2284677348000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-20",
+  "marketCap" : 2278003009680
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-19",
+  "marketCap" : 2307609689920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-16",
+  "marketCap" : 2295972382080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-15",
+  "marketCap" : 2301791036000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-14",
+  "marketCap" : 2259520226640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-13",
+  "marketCap" : 2300593077840
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-12",
+  "marketCap" : 2246000413120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-09",
+  "marketCap" : 2276120504000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-08",
+  "marketCap" : 2230940367680
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-07",
+  "marketCap" : 2188840695200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-06",
+  "marketCap" : 2159918562480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-05",
+  "marketCap" : 2154613319200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-04-01",
+  "marketCap" : 2104983624000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-31",
+  "marketCap" : 2090436989200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-30",
+  "marketCap" : 2051931191200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-29",
+  "marketCap" : 2077430586320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-26",
+  "marketCap" : 2074350105366.312
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-25",
+  "marketCap" : 2063739635920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-24",
+  "marketCap" : 2055182791920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-23",
+  "marketCap" : 2097111327520
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-22",
+  "marketCap" : 2111657945206.312
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-19",
+  "marketCap" : 2053471388892.624
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-18",
+  "marketCap" : 2062712797526.312
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-17",
+  "marketCap" : 2135103749107.376
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-16",
+  "marketCap" : 2148965802160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-15",
+  "marketCap" : 2121926140892.624
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-12",
+  "marketCap" : 2071269641526.312
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-11",
+  "marketCap" : 2087185388480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-10",
+  "marketCap" : 2053300286240
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-09",
+  "marketCap" : 2072296411465.248
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-08",
+  "marketCap" : 1991348735680
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-05",
+  "marketCap" : 2077943962732.624
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-04",
+  "marketCap" : 2055867339440
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-03",
+  "marketCap" : 2088896757280
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-02",
+  "marketCap" : 2141264642560
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-03-01",
+  "marketCap" : 2186958189520
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-26",
+  "marketCap" : 2075205841107.376
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-25",
+  "marketCap" : 2070585111120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-24",
+  "marketCap" : 2145200790800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-23",
+  "marketCap" : 2153928771680
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-22",
+  "marketCap" : 2156324688000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-19",
+  "marketCap" : 2222554574991.5596
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-18",
+  "marketCap" : 2219816470480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-17",
+  "marketCap" : 2239154937920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-16",
+  "marketCap" : 2255588533480.238
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-12",
+  "marketCap" : 2292506974354.405
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-11",
+  "marketCap" : 2288442715145.595
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-10",
+  "marketCap" : 2292845744474.881
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-09",
+  "marketCap" : 2303345450514.4053
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-08",
+  "marketCap" : 2318587210030.4756
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-05",
+  "marketCap" : 2340467885311.56
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-04",
+  "marketCap" : 2351249594320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-03",
+  "marketCap" : 2292207370720
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-02",
+  "marketCap" : 2310176743120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-02-01",
+  "marketCap" : 2295630108320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-29",
+  "marketCap" : 2258322388275.816
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-28",
+  "marketCap" : 2346115487920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-27",
+  "marketCap" : 2431170517280
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-26",
+  "marketCap" : 2470443546360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-25",
+  "marketCap" : 2466301946806.958
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-22",
+  "marketCap" : 2399864496265.647
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-21",
+  "marketCap" : 2361900029270
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-20",
+  "marketCap" : 2278378450373.479
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-19",
+  "marketCap" : 2205901079430
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-15",
+  "marketCap" : 2193994079940
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-14",
+  "marketCap" : 2224538122110
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-13",
+  "marketCap" : 2258706016433.479
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-12",
+  "marketCap" : 2222639904800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-11",
+  "marketCap" : 2225746078580
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-08",
+  "marketCap" : 2278723649819.563
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-07",
+  "marketCap" : 2259223729320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-06",
+  "marketCap" : 2184675558600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-05",
+  "marketCap" : 2260776816210
+}, {
+  "symbol" : "AAPL",
+  "date" : "2021-01-04",
+  "marketCap" : 2233166382610
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-31",
+  "marketCap" : 2289767806003.042
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-30",
+  "marketCap" : 2307541988120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-29",
+  "marketCap" : 2327386900987.395
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-28",
+  "marketCap" : 2358793890003.042
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-24",
+  "marketCap" : 2313198419108.214
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-23",
+  "marketCap" : 2295494905440
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-22",
+  "marketCap" : 2311620949961.0703
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-21",
+  "marketCap" : 2247642881220
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-18",
+  "marketCap" : 2220123655352.856
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-17",
+  "marketCap" : 2255881089215.358
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-16",
+  "marketCap" : 2240280996283.572
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-15",
+  "marketCap" : 2241507953735.358
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-14",
+  "marketCap" : 2134585883391.7861
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-11",
+  "marketCap" : 2145628745852.856
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-10",
+  "marketCap" : 2160177058303.572
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-09",
+  "marketCap" : 2134585883391.7861
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-08",
+  "marketCap" : 2180159204735.3582
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-07",
+  "marketCap" : 2169116482500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-04",
+  "marketCap" : 2142824161500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-03",
+  "marketCap" : 2154918664216.4282
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-02",
+  "marketCap" : 2157372614176.428
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-12-01",
+  "marketCap" : 2151062422080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-30",
+  "marketCap" : 2086733929284.642
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-27",
+  "marketCap" : 2043614400147.144
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-25",
+  "marketCap" : 2033798670420
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-24",
+  "marketCap" : 2018724371323.572
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-23",
+  "marketCap" : 1995587163900
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-20",
+  "marketCap" : 2056760560647.144
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-19",
+  "marketCap" : 2079547308960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-18",
+  "marketCap" : 2068855098420
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-17",
+  "marketCap" : 2092693469460
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-16",
+  "marketCap" : 2108644144200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-13",
+  "marketCap" : 2090414836696.428
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-12",
+  "marketCap" : 2089538390940
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-11",
+  "marketCap" : 2094446255803.572
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-10",
+  "marketCap" : 2032746977580
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-09",
+  "marketCap" : 2038881852480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-06",
+  "marketCap" : 2080423754716.4282
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-05",
+  "marketCap" : 2086383294891.7861
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-04",
+  "marketCap" : 2014868146715.358
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-03",
+  "marketCap" : 1935815954160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-11-02",
+  "marketCap" : 1906543836780
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-30",
+  "marketCap" : 1908121393568.2139
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-29",
+  "marketCap" : 1952957923080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-28",
+  "marketCap" : 1937009702400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-27",
+  "marketCap" : 2031073088361.696
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-26",
+  "marketCap" : 2004073437600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-23",
+  "marketCap" : 2003899263499.152
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-22",
+  "marketCap" : 2016266844000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-21",
+  "marketCap" : 2035776294240
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-20",
+  "marketCap" : 2046924551520
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-19",
+  "marketCap" : 2020273248960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-16",
+  "marketCap" : 2073227418782.544
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-15",
+  "marketCap" : 2102665837920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-14",
+  "marketCap" : 2111027030880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-13",
+  "marketCap" : 2109459307200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-12",
+  "marketCap" : 2166942543638.304
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-09",
+  "marketCap" : 2037518226859.1519
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-08",
+  "marketCap" : 2002679905440
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-07",
+  "marketCap" : 2004596012160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-06",
+  "marketCap" : 1971151240320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-05",
+  "marketCap" : 2029331208000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-02",
+  "marketCap" : 1968712506782.544
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-10-01",
+  "marketCap" : 2034382762080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-30",
+  "marketCap" : 2017311993120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-29",
+  "marketCap" : 1987350982003.392
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-28",
+  "marketCap" : 2002505696500.848
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-25",
+  "marketCap" : 1955822369140.8481
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-24",
+  "marketCap" : 1885100646859.1519
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-23",
+  "marketCap" : 1865939614497.456
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-22",
+  "marketCap" : 1947635350281.6958
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-21",
+  "marketCap" : 1917500286998.304
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-18",
+  "marketCap" : 1861062130003.392
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-17",
+  "marketCap" : 1922029162003.392
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-16",
+  "marketCap" : 1953209461502.544
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-15",
+  "marketCap" : 2012608839499.152
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-14",
+  "marketCap" : 2009386331217.456
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-11",
+  "marketCap" : 1950945024000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-10",
+  "marketCap" : 1976899525641.696
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-09",
+  "marketCap" : 2043614912640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-08",
+  "marketCap" : 1965228728640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-04",
+  "marketCap" : 2107020608500.848
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-03",
+  "marketCap" : 526406760375.636
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-02",
+  "marketCap" : 572219117071.272
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-09-01",
+  "marketCap" : 584325423356.484
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-31",
+  "marketCap" : 561941813036.484
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-28",
+  "marketCap" : 2174040861142.668
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-27",
+  "marketCap" : 2177568230713.092
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-26",
+  "marketCap" : 2203914641500.848
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-25",
+  "marketCap" : 2174345596142.544
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-24",
+  "marketCap" : 2192330892356.4841
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-21",
+  "marketCap" : 2166419982142.668
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-20",
+  "marketCap" : 2060250228928.728
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-19",
+  "marketCap" : 2015526473427.756
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-18",
+  "marketCap" : 2013000753000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-17",
+  "marketCap" : 1996365432356.484
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-14",
+  "marketCap" : 2001591230213.94
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-13",
+  "marketCap" : 2003376710713.092
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-12",
+  "marketCap" : 1968538406713.092
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-11",
+  "marketCap" : 1905219750000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-10",
+  "marketCap" : 1963617474499.152
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-07",
+  "marketCap" : 1935485578857.456
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-06",
+  "marketCap" : 1984084895358.18
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-05",
+  "marketCap" : 1917195417000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-04",
+  "marketCap" : 1910271321499.152
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-08-03",
+  "marketCap" : 1897598871000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-31",
+  "marketCap" : 1850959130713.092
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-30",
+  "marketCap" : 1675548274427.88
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-29",
+  "marketCap" : 1655516223499.152
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-28",
+  "marketCap" : 1624379515427.88
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-27",
+  "marketCap" : 1651509757572.12
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-24",
+  "marketCap" : 1613274723286.908
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-23",
+  "marketCap" : 1617281189213.94
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-22",
+  "marketCap" : 1694404445500.848
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-21",
+  "marketCap" : 1689657744000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-20",
+  "marketCap" : 1713304212356.484
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-17",
+  "marketCap" : 1677943355570.424
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-16",
+  "marketCap" : 1681340081500.848
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-15",
+  "marketCap" : 1702286603071.272
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-14",
+  "marketCap" : 1690659393142.668
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-13",
+  "marketCap" : 1663137102499.152
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-10",
+  "marketCap" : 1670845029356.484
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-09",
+  "marketCap" : 1667927395427.88
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-08",
+  "marketCap" : 1660785477786.06
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-07",
+  "marketCap" : 1622985948429.576
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-06",
+  "marketCap" : 1628037519928.728
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-02",
+  "marketCap" : 1585621793358.18
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-07-01",
+  "marketCap" : 1585621793358.18
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-30",
+  "marketCap" : 1588626610142.544
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-29",
+  "marketCap" : 1575475198285.212
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-26",
+  "marketCap" : 1539983702213.94
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-25",
+  "marketCap" : 1588800836500.848
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-24",
+  "marketCap" : 1567984958570.424
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-23",
+  "marketCap" : 1596160441285.212
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-22",
+  "marketCap" : 1562802747786.06
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-19",
+  "marketCap" : 1522956463714.788
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-18",
+  "marketCap" : 1531709631142.668
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-17",
+  "marketCap" : 1531099895500.848
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-16",
+  "marketCap" : 1533233702427.756
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-15",
+  "marketCap" : 1493648736120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-12",
+  "marketCap" : 1475402174400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-11",
+  "marketCap" : 1462773289200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-10",
+  "marketCap" : 1536543397920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-09",
+  "marketCap" : 1498003524120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-08",
+  "marketCap" : 1452147606480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-05",
+  "marketCap" : 1443612222000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-04",
+  "marketCap" : 1403635268160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-03",
+  "marketCap" : 1415828674560
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-02",
+  "marketCap" : 1408077151920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-06-01",
+  "marketCap" : 1401588517800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-29",
+  "marketCap" : 1384561296720
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-28",
+  "marketCap" : 1385911281000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-27",
+  "marketCap" : 1385301610680
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-26",
+  "marketCap" : 1379292003240
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-22",
+  "marketCap" : 1388698345320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-21",
+  "marketCap" : 1379814577800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-20",
+  "marketCap" : 1390178973240
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-19",
+  "marketCap" : 1363658314320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-18",
+  "marketCap" : 1371584028480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-15",
+  "marketCap" : 1340011815480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-14",
+  "marketCap" : 1347981077520
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-13",
+  "marketCap" : 1339750528200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-12",
+  "marketCap" : 1371664824310
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-11",
+  "marketCap" : 1387521711910
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-08",
+  "marketCap" : 1366026819830
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-07",
+  "marketCap" : 1337880844340
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-06",
+  "marketCap" : 1324182255330
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-05",
+  "marketCap" : 1310659853960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-04",
+  "marketCap" : 1291279213560
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-05-01",
+  "marketCap" : 1273264027370
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-30",
+  "marketCap" : 1294098215800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-29",
+  "marketCap" : 1267361741430
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-28",
+  "marketCap" : 1227058818780
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-27",
+  "marketCap" : 1247276350470
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-24",
+  "marketCap" : 1246395412270
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-23",
+  "marketCap" : 1211422165730
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-22",
+  "marketCap" : 1216135185100
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-21",
+  "marketCap" : 1182086923670
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-20",
+  "marketCap" : 1219791078630
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-17",
+  "marketCap" : 1245646614800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-16",
+  "marketCap" : 1262780862790
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-15",
+  "marketCap" : 1252826261130
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-14",
+  "marketCap" : 1264366551550
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-13",
+  "marketCap" : 1203581815750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-09",
+  "marketCap" : 1180413141090
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-08",
+  "marketCap" : 1171956134370
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-07",
+  "marketCap" : 1142708986130
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-06",
+  "marketCap" : 1156099246770
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-03",
+  "marketCap" : 1063336454310
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-02",
+  "marketCap" : 1078840966630
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-04-01",
+  "marketCap" : 1061134108810
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-31",
+  "marketCap" : 1120068874390
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-30",
+  "marketCap" : 1122359313710
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-27",
+  "marketCap" : 1091218148340
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-26",
+  "marketCap" : 1138348342040
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-25",
+  "marketCap" : 1081439734320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-24",
+  "marketCap" : 1087430114080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-23",
+  "marketCap" : 988280519670
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-20",
+  "marketCap" : 1009731364840
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-19",
+  "marketCap" : 1078180262980
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-18",
+  "marketCap" : 1086505128970
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-17",
+  "marketCap" : 1113770166260
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-16",
+  "marketCap" : 1066860207110
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-13",
+  "marketCap" : 1224371957270
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-12",
+  "marketCap" : 1093376446930
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-11",
+  "marketCap" : 1213184042130
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-10",
+  "marketCap" : 1256834529940
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-09",
+  "marketCap" : 1172396603470
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-06",
+  "marketCap" : 1273087839730
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-05",
+  "marketCap" : 1290222087720
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-04",
+  "marketCap" : 1333476153340
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-03",
+  "marketCap" : 1274365200120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-03-02",
+  "marketCap" : 1316165717710
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-28",
+  "marketCap" : 1204066331760
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-27",
+  "marketCap" : 1204771082320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-26",
+  "marketCap" : 1289032821150
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-25",
+  "marketCap" : 1268903383280
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-24",
+  "marketCap" : 1313390762380
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-21",
+  "marketCap" : 1378888517550
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-20",
+  "marketCap" : 1410822527300
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-19",
+  "marketCap" : 1425446101420
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-18",
+  "marketCap" : 1405096429000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-14",
+  "marketCap" : 1431304340450
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-13",
+  "marketCap" : 1430951965170
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-12",
+  "marketCap" : 1441214895200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-11",
+  "marketCap" : 1423735984440
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-10",
+  "marketCap" : 1432377916200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-07",
+  "marketCap" : 1425606918120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-06",
+  "marketCap" : 1448681766840
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-05",
+  "marketCap" : 1431932455800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-04",
+  "marketCap" : 1420350485400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-02-03",
+  "marketCap" : 1374958070640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-31",
+  "marketCap" : 1378744484040
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-30",
+  "marketCap" : 1442712597480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-29",
+  "marketCap" : 1444806261360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-28",
+  "marketCap" : 1415183144760
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-27",
+  "marketCap" : 1376249905800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-24",
+  "marketCap" : 1417944999240
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-23",
+  "marketCap" : 1422043234920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-22",
+  "marketCap" : 1415227690800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-21",
+  "marketCap" : 1410193988280
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-17",
+  "marketCap" : 1419815932920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-16",
+  "marketCap" : 1404269364960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-15",
+  "marketCap" : 1386896409360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-14",
+  "marketCap" : 1392865578720
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-13",
+  "marketCap" : 1411931283840
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-10",
+  "marketCap" : 1382397259320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-09",
+  "marketCap" : 1379279036520
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-08",
+  "marketCap" : 1350591386760
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-07",
+  "marketCap" : 1329209287560
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-06",
+  "marketCap" : 1335490279200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-03",
+  "marketCap" : 1324932867720
+}, {
+  "symbol" : "AAPL",
+  "date" : "2020-01-02",
+  "marketCap" : 1337940311400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-31",
+  "marketCap" : 1308094464600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-30",
+  "marketCap" : 1298606158080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-27",
+  "marketCap" : 1290944239200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-26",
+  "marketCap" : 1291434245640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-24",
+  "marketCap" : 1266310279080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-23",
+  "marketCap" : 1265107536000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-20",
+  "marketCap" : 1244794541760
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-19",
+  "marketCap" : 1247378212080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-18",
+  "marketCap" : 1246130922960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-17",
+  "marketCap" : 1249115507640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-16",
+  "marketCap" : 1246665475440
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-13",
+  "marketCap" : 1225684290600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-12",
+  "marketCap" : 1209246801840
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-11",
+  "marketCap" : 1206173125080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-10",
+  "marketCap" : 1195972081920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-09",
+  "marketCap" : 1189022899680
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-06",
+  "marketCap" : 1205905848840
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-05",
+  "marketCap" : 1183053730320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-04",
+  "marketCap" : 1165948050960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-03",
+  "marketCap" : 1155747007800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-12-02",
+  "marketCap" : 1176728192640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-29",
+  "marketCap" : 1190492919000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-27",
+  "marketCap" : 1193121135360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-26",
+  "marketCap" : 1177307291160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-25",
+  "marketCap" : 1186572867480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-22",
+  "marketCap" : 1166126235120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-21",
+  "marketCap" : 1167150794040
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-20",
+  "marketCap" : 1172407226760
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-19",
+  "marketCap" : 1186216499160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-18",
+  "marketCap" : 1189824728400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-15",
+  "marketCap" : 1183855559040
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-14",
+  "marketCap" : 1169957194560
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-13",
+  "marketCap" : 1178109119880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-12",
+  "marketCap" : 1184157435000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-11",
+  "marketCap" : 1185242325000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-08",
+  "marketCap" : 1175930352500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-07",
+  "marketCap" : 1172720886250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-06",
+  "marketCap" : 1162821265000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-05",
+  "marketCap" : 1162324023750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-04",
+  "marketCap" : 1163996562500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-11-01",
+  "marketCap" : 1156402332500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-31",
+  "marketCap" : 1124488485000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-30",
+  "marketCap" : 1099626422500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-29",
+  "marketCap" : 1099762033750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-28",
+  "marketCap" : 1125799393750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-25",
+  "marketCap" : 1114634067500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-24",
+  "marketCap" : 1101072942500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-23",
+  "marketCap" : 1099264792500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-22",
+  "marketCap" : 1084709185000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-21",
+  "marketCap" : 1087195391250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-18",
+  "marketCap" : 1068661853750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-17",
+  "marketCap" : 1063553830000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-16",
+  "marketCap" : 1059440288750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-15",
+  "marketCap" : 1063734645000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-14",
+  "marketCap" : 1066220851250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-11",
+  "marketCap" : 1067757778750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-10",
+  "marketCap" : 1040093083750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-09",
+  "marketCap" : 1026260736250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-08",
+  "marketCap" : 1014372150000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-07",
+  "marketCap" : 1026396347500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-04",
+  "marketCap" : 1026170328750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-03",
+  "marketCap" : 998189207500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-02",
+  "marketCap" : 989781310000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-10-01",
+  "marketCap" : 1015231021250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-30",
+  "marketCap" : 1012428388750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-27",
+  "marketCap" : 989148457500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-26",
+  "marketCap" : 993985258750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-25",
+  "marketCap" : 999138486250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-24",
+  "marketCap" : 983995230000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-23",
+  "marketCap" : 988696420000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-20",
+  "marketCap" : 984221248750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-19",
+  "marketCap" : 998822060000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-18",
+  "marketCap" : 1007003938750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-17",
+  "marketCap" : 997646762500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-16",
+  "marketCap" : 994030462500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-13",
+  "marketCap" : 988832031250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-12",
+  "marketCap" : 1008450458750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-11",
+  "marketCap" : 1010710646250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-10",
+  "marketCap" : 979565262500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-09",
+  "marketCap" : 968128713750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-06",
+  "marketCap" : 964015172500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-05",
+  "marketCap" : 964105580000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-04",
+  "marketCap" : 945617246250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-09-03",
+  "marketCap" : 929841137500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-30",
+  "marketCap" : 943583077500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-29",
+  "marketCap" : 944803578750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-28",
+  "marketCap" : 929072673750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-27",
+  "marketCap" : 922879760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-26",
+  "marketCap" : 933412233750
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-23",
+  "marketCap" : 916008790000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-22",
+  "marketCap" : 960398872500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-21",
+  "marketCap" : 961212540000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-20",
+  "marketCap" : 950906085000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-19",
+  "marketCap" : 950860881250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-16",
+  "marketCap" : 933457437500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-15",
+  "marketCap" : 911940452500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-14",
+  "marketCap" : 916506031250
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-13",
+  "marketCap" : 961550378600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-12",
+  "marketCap" : 922484662400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-09",
+  "marketCap" : 924831366200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-08",
+  "marketCap" : 936058733400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-07",
+  "marketCap" : 915858675200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-06",
+  "marketCap" : 906471860000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-05",
+  "marketCap" : 889630809200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-02",
+  "marketCap" : 938773547600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-08-01",
+  "marketCap" : 959065633400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-31",
+  "marketCap" : 980277995200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-30",
+  "marketCap" : 960676116400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-29",
+  "marketCap" : 964817358400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-26",
+  "marketCap" : 955890681200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-25",
+  "marketCap" : 952577687600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-24",
+  "marketCap" : 960169964600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-23",
+  "marketCap" : 960952199200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-22",
+  "marketCap" : 953497963600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-19",
+  "marketCap" : 932193574200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-18",
+  "marketCap" : 946319810800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-17",
+  "marketCap" : 935690623000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-16",
+  "marketCap" : 940982210000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-15",
+  "marketCap" : 944249189800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-12",
+  "marketCap" : 935460554000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-11",
+  "marketCap" : 928328415000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-10",
+  "marketCap" : 935138457400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-09",
+  "marketCap" : 925981711200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-08",
+  "marketCap" : 920368027600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-05",
+  "marketCap" : 939739837400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-03",
+  "marketCap" : 940568085800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-02",
+  "marketCap" : 932837767400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-07-01",
+  "marketCap" : 927408139000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-28",
+  "marketCap" : 910705129600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-27",
+  "marketCap" : 919079641200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-26",
+  "marketCap" : 919355724000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-25",
+  "marketCap" : 899891886600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-24",
+  "marketCap" : 913742040400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-21",
+  "marketCap" : 914662316400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-20",
+  "marketCap" : 917791254800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-19",
+  "marketCap" : 910475060600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-18",
+  "marketCap" : 913143861000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-17",
+  "marketCap" : 892161568200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-14",
+  "marketCap" : 886869981200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-13",
+  "marketCap" : 893357927000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-12",
+  "marketCap" : 893541982200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-11",
+  "marketCap" : 896394837800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-10",
+  "marketCap" : 886133760400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-07",
+  "marketCap" : 874952407000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-06",
+  "marketCap" : 852267603600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-05",
+  "marketCap" : 839935905200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-04",
+  "marketCap" : 826591903200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-06-03",
+  "marketCap" : 797419154000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-31",
+  "marketCap" : 805563596600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-30",
+  "marketCap" : 820426054000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-29",
+  "marketCap" : 816192784400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-28",
+  "marketCap" : 820103957400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-24",
+  "marketCap" : 823508978600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-23",
+  "marketCap" : 826683930800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-22",
+  "marketCap" : 841040236400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-21",
+  "marketCap" : 858617508000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-20",
+  "marketCap" : 842466664200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-17",
+  "marketCap" : 869660820000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-16",
+  "marketCap" : 874630310400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-15",
+  "marketCap" : 878495469600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-14",
+  "marketCap" : 886823874360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-13",
+  "marketCap" : 873003975120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-10",
+  "marketCap" : 926873378280
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-09",
+  "marketCap" : 943513665120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-08",
+  "marketCap" : 953761073400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-07",
+  "marketCap" : 953573047560
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-06",
+  "marketCap" : 979990678080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-03",
+  "marketCap" : 995361790500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-02",
+  "marketCap" : 983140110900
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-05-01",
+  "marketCap" : 989579995920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-30",
+  "marketCap" : 943278632820
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-29",
+  "marketCap" : 961799178060
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-26",
+  "marketCap" : 960341977800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-25",
+  "marketCap" : 964948610880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-24",
+  "marketCap" : 973785825360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-23",
+  "marketCap" : 975290032080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-22",
+  "marketCap" : 961423126380
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-18",
+  "marketCap" : 958273693560
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-17",
+  "marketCap" : 954842221980
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-16",
+  "marketCap" : 936603715500
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-15",
+  "marketCap" : 936509702580
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-12",
+  "marketCap" : 934817470020
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-11",
+  "marketCap" : 935193521700
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-10",
+  "marketCap" : 943043600520
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-09",
+  "marketCap" : 937778877000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-08",
+  "marketCap" : 940599264600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-05",
+  "marketCap" : 926027262000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-04",
+  "marketCap" : 919869415740
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-03",
+  "marketCap" : 918271196100
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-02",
+  "marketCap" : 912019336920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-04-01",
+  "marketCap" : 898951541040
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-29",
+  "marketCap" : 892887707700
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-28",
+  "marketCap" : 887105913120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-27",
+  "marketCap" : 885930751620
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-26",
+  "marketCap" : 878033666340
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-25",
+  "marketCap" : 887199926040
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-22",
+  "marketCap" : 898058418300
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-21",
+  "marketCap" : 917049028140
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-20",
+  "marketCap" : 884473551360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-19",
+  "marketCap" : 876811498380
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-18",
+  "marketCap" : 883815460920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-15",
+  "marketCap" : 874884233520
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-14",
+  "marketCap" : 863649689580
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-13",
+  "marketCap" : 854154384660
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-12",
+  "marketCap" : 850393867860
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-11",
+  "marketCap" : 840945569400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-08",
+  "marketCap" : 812788699860
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-07",
+  "marketCap" : 810861435000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-06",
+  "marketCap" : 820356739920
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-05",
+  "marketCap" : 825104392380
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-04",
+  "marketCap" : 826608599100
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-03-01",
+  "marketCap" : 822472030620
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-28",
+  "marketCap" : 813916854900
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-27",
+  "marketCap" : 822001966020
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-26",
+  "marketCap" : 819463617180
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-25",
+  "marketCap" : 818993552580
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-22",
+  "marketCap" : 813070738620
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-21",
+  "marketCap" : 804092504760
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-20",
+  "marketCap" : 808652131380
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-19",
+  "marketCap" : 803481420780
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-15",
+  "marketCap" : 801084091320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-14",
+  "marketCap" : 802870336800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-13",
+  "marketCap" : 799955936280
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-12",
+  "marketCap" : 815701034280
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-11",
+  "marketCap" : 808732086360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-08",
+  "marketCap" : 813409873320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-07",
+  "marketCap" : 815939696880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-06",
+  "marketCap" : 831691428480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-05",
+  "marketCap" : 831405033360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-04",
+  "marketCap" : 817419405000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-02-01",
+  "marketCap" : 794841923040
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-31",
+  "marketCap" : 794460062880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-30",
+  "marketCap" : 788779893000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-29",
+  "marketCap" : 738326619360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-28",
+  "marketCap" : 746059287600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-25",
+  "marketCap" : 753028235520
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-24",
+  "marketCap" : 728875580400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-23",
+  "marketCap" : 734698947840
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-22",
+  "marketCap" : 731739531600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-18",
+  "marketCap" : 748541378640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-17",
+  "marketCap" : 743959056720
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-16",
+  "marketCap" : 739567664880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-15",
+  "marketCap" : 730641683640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-14",
+  "marketCap" : 715987800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-11",
+  "marketCap" : 726918547080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-10",
+  "marketCap" : 734126157600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-09",
+  "marketCap" : 731787264120
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-08",
+  "marketCap" : 719567739000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-07",
+  "marketCap" : 706107168360
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-04",
+  "marketCap" : 707682341520
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-03",
+  "marketCap" : 678708701880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2019-01-02",
+  "marketCap" : 753791955840
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-31",
+  "marketCap" : 752932770480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-28",
+  "marketCap" : 745725159960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-27",
+  "marketCap" : 745343299800
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-26",
+  "marketCap" : 750212016840
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-24",
+  "marketCap" : 700856591160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-21",
+  "marketCap" : 719472273960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-20",
+  "marketCap" : 748589111160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-19",
+  "marketCap" : 767968514280
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-18",
+  "marketCap" : 792693959640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-17",
+  "marketCap" : 782526932880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-14",
+  "marketCap" : 789877740960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-13",
+  "marketCap" : 815987429400
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-12",
+  "marketCap" : 807156913200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-11",
+  "marketCap" : 804913484760
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-10",
+  "marketCap" : 809543539200
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-07",
+  "marketCap" : 804245229480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-06",
+  "marketCap" : 833982589440
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-04",
+  "marketCap" : 843385895880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-12-03",
+  "marketCap" : 882192434640
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-30",
+  "marketCap" : 852407342160
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-29",
+  "marketCap" : 857037396600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-28",
+  "marketCap" : 863672216880
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-27",
+  "marketCap" : 831691428480
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-26",
+  "marketCap" : 833505264240
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-23",
+  "marketCap" : 822383587080
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-21",
+  "marketCap" : 843815488560
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-20",
+  "marketCap" : 844770138960
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-19",
+  "marketCap" : 887156616720
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-16",
+  "marketCap" : 923767459560
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-15",
+  "marketCap" : 913648165320
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-14",
+  "marketCap" : 891643473600
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-13",
+  "marketCap" : 931931040000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-12",
+  "marketCap" : 941336160000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-09",
+  "marketCap" : 991270560000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-08",
+  "marketCap" : 1010759520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-07",
+  "marketCap" : 1017837600000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-06",
+  "marketCap" : 987876960000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-05",
+  "marketCap" : 977308320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-02",
+  "marketCap" : 1005863040000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-11-01",
+  "marketCap" : 1077322560000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-31",
+  "marketCap" : 1061033280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-30",
+  "marketCap" : 1034078400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-29",
+  "marketCap" : 1028939520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-26",
+  "marketCap" : 1048622400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-25",
+  "marketCap" : 1065590400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-24",
+  "marketCap" : 1042756320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-23",
+  "marketCap" : 1079795040000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-22",
+  "marketCap" : 1069711200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-19",
+  "marketCap" : 1063214880000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-18",
+  "marketCap" : 1047264960000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-17",
+  "marketCap" : 1072329120000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-16",
+  "marketCap" : 1076983200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-15",
+  "marketCap" : 1053761280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-12",
+  "marketCap" : 1076789280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-11",
+  "marketCap" : 1039653600000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-10",
+  "marketCap" : 1048913280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-09",
+  "marketCap" : 1099865760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-08",
+  "marketCap" : 1084836960000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-05",
+  "marketCap" : 1087357920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-04",
+  "marketCap" : 1105295520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-03",
+  "marketCap" : 1125075360000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-02",
+  "marketCap" : 1111549440000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-10-01",
+  "marketCap" : 1101756480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-28",
+  "marketCap" : 1094387520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-27",
+  "marketCap" : 1090557600000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-26",
+  "marketCap" : 1068596160000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-25",
+  "marketCap" : 1077177120000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-24",
+  "marketCap" : 1070389920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-21",
+  "marketCap" : 1055215680000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-20",
+  "marketCap" : 1066705440000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-19",
+  "marketCap" : 1058657760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-18",
+  "marketCap" : 1058027520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-17",
+  "marketCap" : 1056282240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-14",
+  "marketCap" : 1085176320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-13",
+  "marketCap" : 1097635680000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-12",
+  "marketCap" : 1071747360000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-11",
+  "marketCap" : 1085224800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-10",
+  "marketCap" : 1058463840000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-07",
+  "marketCap" : 1072862400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-06",
+  "marketCap" : 1081588800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-05",
+  "marketCap" : 1099865760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-09-04",
+  "marketCap" : 1107089280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-31",
+  "marketCap" : 1103550240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-30",
+  "marketCap" : 1090945440000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-29",
+  "marketCap" : 1081007040000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-28",
+  "marketCap" : 1065105600000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-27",
+  "marketCap" : 1056573120000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-24",
+  "marketCap" : 1047943680000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-23",
+  "marketCap" : 1044695520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-22",
+  "marketCap" : 1042562400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-21",
+  "marketCap" : 1042513920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-20",
+  "marketCap" : 1044550080000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-17",
+  "marketCap" : 1054827840000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-16",
+  "marketCap" : 1034175360000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-15",
+  "marketCap" : 1019243520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-14",
+  "marketCap" : 1033438250000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-13",
+  "marketCap" : 1029102490000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-10",
+  "marketCap" : 1022500310000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-09",
+  "marketCap" : 1029151760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-08",
+  "marketCap" : 1021120750000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-07",
+  "marketCap" : 1020430970000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-06",
+  "marketCap" : 1030087890000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-03",
+  "marketCap" : 1024766730000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-02",
+  "marketCap" : 1021810530000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-08-01",
+  "marketCap" : 992790500000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-31",
+  "marketCap" : 937558830000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-30",
+  "marketCap" : 935686570000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-27",
+  "marketCap" : 940958460000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-26",
+  "marketCap" : 956872670000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-25",
+  "marketCap" : 959878140000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-24",
+  "marketCap" : 950911000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-23",
+  "marketCap" : 944062470000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-20",
+  "marketCap" : 943224880000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-19",
+  "marketCap" : 945392760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-18",
+  "marketCap" : 938100800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-17",
+  "marketCap" : 943274150000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-16",
+  "marketCap" : 940613570000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-13",
+  "marketCap" : 942682910000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-12",
+  "marketCap" : 941204810000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-11",
+  "marketCap" : 925684760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-10",
+  "marketCap" : 937854450000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-09",
+  "marketCap" : 938987660000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-06",
+  "marketCap" : 926128190000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-05",
+  "marketCap" : 913465800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-03",
+  "marketCap" : 906173840000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-07-02",
+  "marketCap" : 922235860000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-29",
+  "marketCap" : 912036970000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-28",
+  "marketCap" : 913958500000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-27",
+  "marketCap" : 907356320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-26",
+  "marketCap" : 908686610000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-25",
+  "marketCap" : 897551590000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-22",
+  "marketCap" : 911100840000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-21",
+  "marketCap" : 913761420000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-20",
+  "marketCap" : 918885500000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-19",
+  "marketCap" : 914894630000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-18",
+  "marketCap" : 929921980000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-15",
+  "marketCap" : 930414680000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-14",
+  "marketCap" : 940071600000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-13",
+  "marketCap" : 939578900000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-12",
+  "marketCap" : 947363560000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-11",
+  "marketCap" : 942190210000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-08",
+  "marketCap" : 944505900000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-07",
+  "marketCap" : 953177420000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-06",
+  "marketCap" : 955739460000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-05",
+  "marketCap" : 952438370000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-04",
+  "marketCap" : 945146410000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-06-01",
+  "marketCap" : 937312480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-31",
+  "marketCap" : 920708490000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-30",
+  "marketCap" : 923812500000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-29",
+  "marketCap" : 925783300000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-25",
+  "marketCap" : 929133660000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-24",
+  "marketCap" : 927015050000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-23",
+  "marketCap" : 928049720000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-22",
+  "marketCap" : 922137320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-21",
+  "marketCap" : 924453010000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-18",
+  "marketCap" : 917949370000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-17",
+  "marketCap" : 921299730000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-16",
+  "marketCap" : 927162860000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-15",
+  "marketCap" : 944877920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-14",
+  "marketCap" : 953544200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-11",
+  "marketCap" : 955774120000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-10",
+  "marketCap" : 963122720000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-09",
+  "marketCap" : 949540480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-08",
+  "marketCap" : 942901400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-07",
+  "marketCap" : 938390880000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-04",
+  "marketCap" : 931650440000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-03",
+  "marketCap" : 896478520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-02",
+  "marketCap" : 894856760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-05-01",
+  "marketCap" : 856998800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-30",
+  "marketCap" : 837537680000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-27",
+  "marketCap" : 822637760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-26",
+  "marketCap" : 832266960000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-25",
+  "marketCap" : 829378200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-24",
+  "marketCap" : 825779920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-23",
+  "marketCap" : 837436320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-20",
+  "marketCap" : 839868960000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-19",
+  "marketCap" : 875750400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-18",
+  "marketCap" : 901293120000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-17",
+  "marketCap" : 903320320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-16",
+  "marketCap" : 891055760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-13",
+  "marketCap" : 885531640000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-12",
+  "marketCap" : 882541520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-11",
+  "marketCap" : 873925920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-10",
+  "marketCap" : 878031000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-09",
+  "marketCap" : 861813400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-06",
+  "marketCap" : 853349840000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-05",
+  "marketCap" : 875750400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-04",
+  "marketCap" : 869719480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-03",
+  "marketCap" : 853400520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-04-02",
+  "marketCap" : 844734240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-29",
+  "marketCap" : 850309040000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-28",
+  "marketCap" : 843720640000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-27",
+  "marketCap" : 853147120000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-26",
+  "marketCap" : 875598360000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-23",
+  "marketCap" : 835915920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-22",
+  "marketCap" : 855731800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-21",
+  "marketCap" : 867996360000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-20",
+  "marketCap" : 888116320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-19",
+  "marketCap" : 888420400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-16",
+  "marketCap" : 902205360000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-15",
+  "marketCap" : 905398200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-14",
+  "marketCap" : 904333920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-13",
+  "marketCap" : 912087960000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-12",
+  "marketCap" : 920956960000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-09",
+  "marketCap" : 912138640000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-08",
+  "marketCap" : 896731920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-07",
+  "marketCap" : 887052040000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-06",
+  "marketCap" : 895363560000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-05",
+  "marketCap" : 896123760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-02",
+  "marketCap" : 893032280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-03-01",
+  "marketCap" : 886900000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-28",
+  "marketCap" : 902712160000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-27",
+  "marketCap" : 904080520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-26",
+  "marketCap" : 907019960000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-23",
+  "marketCap" : 889434000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-22",
+  "marketCap" : 874230000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-21",
+  "marketCap" : 866982760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-20",
+  "marketCap" : 870935800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-16",
+  "marketCap" : 873875240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-15",
+  "marketCap" : 876713320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-14",
+  "marketCap" : 848231160000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-13",
+  "marketCap" : 847665720000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-12",
+  "marketCap" : 839258180000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-09",
+  "marketCap" : 806762780000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-08",
+  "marketCap" : 800263700000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-07",
+  "marketCap" : 822907320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-06",
+  "marketCap" : 840908740000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-05",
+  "marketCap" : 807175420000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-02",
+  "marketCap" : 827859000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-02-01",
+  "marketCap" : 865409240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-31",
+  "marketCap" : 863603940000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-30",
+  "marketCap" : 861231260000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-29",
+  "marketCap" : 866337680000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-26",
+  "marketCap" : 884648580000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-25",
+  "marketCap" : 882585380000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-24",
+  "marketCap" : 898626760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-23",
+  "marketCap" : 913172320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-22",
+  "marketCap" : 912966000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-19",
+  "marketCap" : 920496680000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-18",
+  "marketCap" : 924623080000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-17",
+  "marketCap" : 923797800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-16",
+  "marketCap" : 908788020000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-12",
+  "marketCap" : 913430220000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-11",
+  "marketCap" : 904094240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-10",
+  "marketCap" : 898987820000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-09",
+  "marketCap" : 899194140000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-08",
+  "marketCap" : 899297300000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-05",
+  "marketCap" : 902650000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-04",
+  "marketCap" : 892488740000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-03",
+  "marketCap" : 888362340000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2018-01-02",
+  "marketCap" : 888517080000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-29",
+  "marketCap" : 872888340000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-28",
+  "marketCap" : 882430640000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-27",
+  "marketCap" : 879954800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-26",
+  "marketCap" : 879800060000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-22",
+  "marketCap" : 902701580000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-21",
+  "marketCap" : 902701580000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-20",
+  "marketCap" : 899297300000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-19",
+  "marketCap" : 900277320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-18",
+  "marketCap" : 909974360000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-15",
+  "marketCap" : 897337260000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-14",
+  "marketCap" : 888310760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-13",
+  "marketCap" : 888568660000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-12",
+  "marketCap" : 885628600000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-11",
+  "marketCap" : 890631860000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-08",
+  "marketCap" : 873610460000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-07",
+  "marketCap" : 873352560000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-06",
+  "marketCap" : 871753580000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-05",
+  "marketCap" : 875003120000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-04",
+  "marketCap" : 875828400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-12-01",
+  "marketCap" : 882275900000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-30",
+  "marketCap" : 886402300000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-29",
+  "marketCap" : 874177840000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-28",
+  "marketCap" : 892695060000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-27",
+  "marketCap" : 897956220000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-24",
+  "marketCap" : 902495260000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-22",
+  "marketCap" : 902443680000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-21",
+  "marketCap" : 893056120000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-20",
+  "marketCap" : 876756840000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-17",
+  "marketCap" : 877633700000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-16",
+  "marketCap" : 882533800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-15",
+  "marketCap" : 872114640000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-14",
+  "marketCap" : 888226560000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-13",
+  "marketCap" : 901860480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-10",
+  "marketCap" : 905489280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-09",
+  "marketCap" : 911761920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-08",
+  "marketCap" : 913628160000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-07",
+  "marketCap" : 906215040000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-06",
+  "marketCap" : 903312000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-03",
+  "marketCap" : 894240000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-02",
+  "marketCap" : 871482240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-11-01",
+  "marketCap" : 865157760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-31",
+  "marketCap" : 876303360000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-30",
+  "marketCap" : 864276480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-27",
+  "marketCap" : 845251200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-26",
+  "marketCap" : 816013440000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-25",
+  "marketCap" : 810829440000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-24",
+  "marketCap" : 814406400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-23",
+  "marketCap" : 809585280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-20",
+  "marketCap" : 810000000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-19",
+  "marketCap" : 808600320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-18",
+  "marketCap" : 828195840000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-17",
+  "marketCap" : 831876480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-16",
+  "marketCap" : 828817920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-13",
+  "marketCap" : 813836160000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-12",
+  "marketCap" : 808704000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-11",
+  "marketCap" : 811555200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-10",
+  "marketCap" : 808185600000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-09",
+  "marketCap" : 807874560000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-06",
+  "marketCap" : 805075200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-05",
+  "marketCap" : 805541760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-04",
+  "marketCap" : 795640320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-03",
+  "marketCap" : 800824320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-10-02",
+  "marketCap" : 797351040000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-29",
+  "marketCap" : 798958080000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-28",
+  "marketCap" : 794603520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-27",
+  "marketCap" : 799528320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-26",
+  "marketCap" : 793877760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-25",
+  "marketCap" : 780451200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-22",
+  "marketCap" : 787397760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-21",
+  "marketCap" : 795173760000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-20",
+  "marketCap" : 809066880000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-19",
+  "marketCap" : 822856320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-18",
+  "marketCap" : 822545280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-15",
+  "marketCap" : 828817920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-14",
+  "marketCap" : 820523520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-13",
+  "marketCap" : 827625600000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-12",
+  "marketCap" : 833898240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-11",
+  "marketCap" : 837216000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-08",
+  "marketCap" : 822337920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-07",
+  "marketCap" : 835971840000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-06",
+  "marketCap" : 839341440000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-05",
+  "marketCap" : 840222720000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-09-01",
+  "marketCap" : 850435200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-31",
+  "marketCap" : 850176000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-30",
+  "marketCap" : 846806400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-29",
+  "marketCap" : 844525440000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-28",
+  "marketCap" : 837060480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-25",
+  "marketCap" : 828714240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-24",
+  "marketCap" : 825655680000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-23",
+  "marketCap" : 829336320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-22",
+  "marketCap" : 828299520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-21",
+  "marketCap" : 814976640000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-18",
+  "marketCap" : 816480000000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-17",
+  "marketCap" : 818346240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-16",
+  "marketCap" : 834364800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-15",
+  "marketCap" : 845652800000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-14",
+  "marketCap" : 836495050000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-11",
+  "marketCap" : 824092840000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-10",
+  "marketCap" : 812789560000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-09",
+  "marketCap" : 842826980000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-08",
+  "marketCap" : 837698640000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-07",
+  "marketCap" : 831052730000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-04",
+  "marketCap" : 818388870000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-03",
+  "marketCap" : 814097810000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-02",
+  "marketCap" : 822313620000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-08-01",
+  "marketCap" : 785211650000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-31",
+  "marketCap" : 778304090000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-28",
+  "marketCap" : 782333500000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-27",
+  "marketCap" : 787880480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-26",
+  "marketCap" : 803056180000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-25",
+  "marketCap" : 799288420000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-24",
+  "marketCap" : 795886970000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-21",
+  "marketCap" : 786362910000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-20",
+  "marketCap" : 786729220000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-19",
+  "marketCap" : 790287660000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-18",
+  "marketCap" : 785368640000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-17",
+  "marketCap" : 782647480000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-14",
+  "marketCap" : 779926320000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-13",
+  "marketCap" : 773280410000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-12",
+  "marketCap" : 762657420000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-11",
+  "marketCap" : 761558490000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-10",
+  "marketCap" : 759098980000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-07",
+  "marketCap" : 754493940000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-06",
+  "marketCap" : 746906090000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-05",
+  "marketCap" : 754022970000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-07-03",
+  "marketCap" : 750935500000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-30",
+  "marketCap" : 753656660000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-29",
+  "marketCap" : 751877440000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-28",
+  "marketCap" : 763128390000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-27",
+  "marketCap" : 752139090000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-26",
+  "marketCap" : 763076060000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-23",
+  "marketCap" : 765483240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-22",
+  "marketCap" : 762081790000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-21",
+  "marketCap" : 763337710000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-20",
+  "marketCap" : 758837330000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-19",
+  "marketCap" : 765797220000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-16",
+  "marketCap" : 744498910000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-15",
+  "marketCap" : 755069570000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-14",
+  "marketCap" : 759622280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-13",
+  "marketCap" : 767105470000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-12",
+  "marketCap" : 760982860000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-09",
+  "marketCap" : 779612340000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-08",
+  "marketCap" : 811062670000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-07",
+  "marketCap" : 813051210000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-06",
+  "marketCap" : 808236850000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-05",
+  "marketCap" : 805515690000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-02",
+  "marketCap" : 813469850000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-06-01",
+  "marketCap" : 801590940000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-31",
+  "marketCap" : 799393080000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-30",
+  "marketCap" : 804155110000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-26",
+  "marketCap" : 803841130000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-25",
+  "marketCap" : 805201710000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-24",
+  "marketCap" : 802428220000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-23",
+  "marketCap" : 804835400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-22",
+  "marketCap" : 805829670000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-19",
+  "marketCap" : 800962980000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-18",
+  "marketCap" : 798241820000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-17",
+  "marketCap" : 786258250000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-16",
+  "marketCap" : 818083140000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-15",
+  "marketCap" : 819293400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-12",
+  "marketCap" : 821398200000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-11",
+  "marketCap" : 810084900000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-10",
+  "marketCap" : 806454120000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-09",
+  "marketCap" : 810295380000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-08",
+  "marketCap" : 805138620000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-05",
+  "marketCap" : 783827520000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-04",
+  "marketCap" : 771040860000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-03",
+  "marketCap" : 773829720000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-02",
+  "marketCap" : 776197620000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-05-01",
+  "marketCap" : 771303960000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-28",
+  "marketCap" : 755886300000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-27",
+  "marketCap" : 756622980000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-26",
+  "marketCap" : 756044160000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-25",
+  "marketCap" : 760516860000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-24",
+  "marketCap" : 755833680000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-21",
+  "marketCap" : 748624740000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-20",
+  "marketCap" : 749519280000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-19",
+  "marketCap" : 740258160000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-18",
+  "marketCap" : 742994400000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-17",
+  "marketCap" : 746309460000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-13",
+  "marketCap" : 742205100000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-12",
+  "marketCap" : 746151600000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-11",
+  "marketCap" : 745257060000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-10",
+  "marketCap" : 753360540000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-07",
+  "marketCap" : 754255080000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-06",
+  "marketCap" : 755938920000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-05",
+  "marketCap" : 757833240000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-04",
+  "marketCap" : 761779740000
+}, {
+  "symbol" : "AAPL",
+  "date" : "2017-04-03",
+  "marketCap" : 756149400000
+} ]
